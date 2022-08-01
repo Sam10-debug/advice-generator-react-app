@@ -23,6 +23,7 @@ body{
 	height: fit-content;
 	background: hsl(217, 19%, 24%);
 	position: relative;
+	padding: 0.2rem;
 }
 .desktop-img{
 	width: 95%;
@@ -46,7 +47,7 @@ p{
 	font-size: 1.3rem;
 	font-weight: bold;
 	color: #ffffff;
-	margin-top: 1.3rem;
+	
 }
 #dice{
 	/* padding: 20px; */
